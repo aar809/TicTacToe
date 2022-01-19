@@ -1,6 +1,6 @@
 # Tic Tac Toe Game using ReactJS
 
-Using same principles learned from "Scrimba Learn React" course, I experimented and re-purposed the code and back-end/front-end logic for "Tenzies Game" into an interactive Tic Tac Toe game for 2 players (X & O).
+Using same principles learned from "Scrimba Learn React" course, I experimented and re-purposed the code for back-end/front-end logic of "Tenzies Game" into an interactive Tic Tac Toe game for 2 players (X & O).
 
 The app is deployed on Netlify, and you can play the game [here](https://amazing-wiles-55347b.netlify.app/).
 
